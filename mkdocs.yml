@@ -1,0 +1,17 @@
+site_name: MkDocs template
+site_url: https://han-cao.github.io/MkDocs-template/
+repo_url: https://github.com/Han-Cao/MkDocs-template/
+edit_uri: docs/
+
+theme:
+    name: readthedocs
+
+extra:
+    version: 0.1.0
+
+
+nav:
+    - 'Home': 'index.md'
+    - 'New page': 'new_page.md'
+    - 'Navigation':
+        - 'Subpage': 'navigation/subpage.md'
