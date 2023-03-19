@@ -9,6 +9,8 @@ theme:
 extra:
     version: 0.1.0
 
+markdown_extensions:
+  - def_list
 
 nav:
     - 'Home': 'index.md'
